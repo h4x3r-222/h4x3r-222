@@ -16,7 +16,6 @@
 
 - 👾 All of my projects are available at <a href="https://github.com/h4x3r-222" target="_blank"><code style="color: #00ff00;">https://github.com/h4x3r-222</code></a>
 
-- 📝 I regularly write articles on <a href="https://medium.com/@h4x3r-222" target="_blank"><code style="color: #00ff00;">Cyber Landscape</code></a>
 
 - 💬 How to reach me: <code style="color: #00ff00;">iftikharhafsa4@gmail.com</code>
 
@@ -24,7 +23,7 @@
 
 
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
+<p align="left>
   <a href="https://medium.com/@h4x3r-222" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@h4x3r-222" height="30" width="40" />
   </a>
@@ -47,7 +46,7 @@
 
 </p>
 
-
+---
 
 
 <h3 align="center">📊 GitHub Stats</h3>
